@@ -96,6 +96,11 @@ am__aclocal_m4_deps = $(top_srcdir)/macros/ax_check_gl.m4 \
 	$(top_srcdir)/macros/ax_cxx_compile_stdcxx_11.m4 \
 	$(top_srcdir)/macros/ax_lang_compiler_ms.m4 \
 	$(top_srcdir)/macros/ax_pthread.m4 \
+	$(top_srcdir)/macros/libtool.m4 \
+	$(top_srcdir)/macros/ltoptions.m4 \
+	$(top_srcdir)/macros/ltsugar.m4 \
+	$(top_srcdir)/macros/ltversion.m4 \
+	$(top_srcdir)/macros/lt~obsolete.m4 \
 	$(top_srcdir)/macros/wxwin.m4 $(top_srcdir)/configure.ac
 am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \
 	$(ACLOCAL_M4)
